@@ -59,7 +59,7 @@ class _homepageState extends State<homepage> {
                         children: [
                           Icon(Icons.map, size: 80, color: Colors.blue),
                           Text(
-                            "Map",
+                            "Maps",
                             style: TextStyle(fontSize: 20),
                           )
                         ],
