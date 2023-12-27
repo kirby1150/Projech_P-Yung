@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:uttapol_6404800007/PagesControl/HomeStack.dart';
-import 'package:uttapol_6404800007/PagesControl/NewStack.dart';
-import 'package:uttapol_6404800007/PagesControl/PremierStack.dart';
-import 'package:uttapol_6404800007/PagesControl/ProductStack.dart';
+import 'package:_6404800007/PagesControl/HomeStack.dart';
+import 'package:_6404800007/PagesControl/NewStack.dart';
+import 'package:_6404800007/PagesControl/PremierStack.dart';
+import 'package:_6404800007/PagesControl/ProductStack.dart';
 
 void main() {
   runApp(const MyApp());

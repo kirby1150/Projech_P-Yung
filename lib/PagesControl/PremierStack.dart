@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:uttapol_6404800007/Pages/PremierDetail.dart';
-import 'package:uttapol_6404800007/Pages/PremierTeam.dart';
+import 'package:_6404800007/Pages/PremierDetail.dart';
+import 'package:_6404800007/Pages/PremierTeam.dart';
 
 class PremierStack extends StatefulWidget {
   const PremierStack({super.key});

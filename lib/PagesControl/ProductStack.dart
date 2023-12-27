@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:uttapol_6404800007/Pages/DetailPage.dart';
-import 'package:uttapol_6404800007/Pages/productpage.dart';
+import 'package:_6404800007/Pages/DetailPage.dart';
+import 'package:_6404800007/Pages/productpage.dart';
 
 class ProductStack extends StatefulWidget {
   const ProductStack({super.key});

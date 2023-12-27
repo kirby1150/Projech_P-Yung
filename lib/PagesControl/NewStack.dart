@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:uttapol_6404800007/Pages/newpage.dart';
-import 'package:uttapol_6404800007/Pages/webviewpage.dart';
+import 'package:_6404800007/Pages/newpage.dart';
+import 'package:_6404800007/Pages/webviewpage.dart';
 
 class NewsStack extends StatefulWidget {
   const NewsStack({super.key});

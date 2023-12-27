@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert' as convert;
-import 'package:uttapol_6404800007/Models/Team.dart';
-import 'package:uttapol_6404800007/widgets/menu.dart';
+import 'package:_6404800007/Models/Team.dart';
+import 'package:_6404800007/widgets/menu.dart';
 
 class PremierTeamPage extends StatefulWidget {
   const PremierTeamPage({super.key});

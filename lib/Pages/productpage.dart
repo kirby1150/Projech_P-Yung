@@ -2,8 +2,8 @@
 import 'package:flutter/material.dart';
 import 'dart:convert' as convert;
 import 'package:http/http.dart' as http;
-import 'package:uttapol_6404800007/Models/Product.dart';
-import 'package:uttapol_6404800007/widgets/menu.dart';
+import 'package:_6404800007/Models/Product.dart';
+import 'package:_6404800007/widgets/menu.dart';
 
 class productpage extends StatefulWidget {
   const productpage({super.key});

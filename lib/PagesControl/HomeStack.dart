@@ -1,12 +1,12 @@
 
 import 'package:flutter/material.dart';
-import 'package:uttapol_6404800007/Pages/AboutPage.dart';
-import 'package:uttapol_6404800007/Pages/CameraPage.dart';
-import 'package:uttapol_6404800007/Pages/Companypage.dart';
-import 'package:uttapol_6404800007/Pages/MapPage.dart';
-import 'package:uttapol_6404800007/Pages/PicturePage.dart';
-import 'package:uttapol_6404800007/Pages/contactpage.dart';
-import 'package:uttapol_6404800007/Pages/hompage.dart';
+import 'package:_6404800007/Pages/AboutPage.dart';
+import 'package:_6404800007/Pages/CameraPage.dart';
+import 'package:_6404800007/Pages/Companypage.dart';
+import 'package:_6404800007/Pages/MapPage.dart';
+import 'package:_6404800007/Pages/PicturePage.dart';
+import 'package:_6404800007/Pages/contactpage.dart';
+import 'package:_6404800007/Pages/hompage.dart';
 
 class HomeStack extends StatefulWidget {
   const HomeStack({super.key});
